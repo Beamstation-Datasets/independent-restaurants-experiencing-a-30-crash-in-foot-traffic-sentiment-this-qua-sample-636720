@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Florida
 
-> Free BeamStation sample export with 226 rows and masked direct-contact fields.
+> Free BeamStation sample export with 131 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `636720` |
 | Location | Florida |
 | Category | Restaurants |
-| Full dataset size | 2,269 records |
-| Free sample size | 226 records (9.96%) |
-| Last export | 2026-04-16T21:13:12.760406+00:00 |
+| Full dataset size | 1,316 records |
+| Free sample size | 131 records (9.95%) |
+| Last export | 2026-04-23T16:09:44.205938+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-636720/releases/download/sample-latest/beamstation_636720_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
